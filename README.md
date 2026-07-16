@@ -3,6 +3,7 @@
 
 Unreal Engine plugin that adds a branching dialogue system. This plugin is intended to use with C++ code but it is not mandatory.
 
+![Example](https://i.imgur.com/KTh4LKX.png)
 
 ## Features
 
@@ -10,7 +11,3 @@ Unreal Engine plugin that adds a branching dialogue system. This plugin is inten
 - Conditions
 - Events
 - Multiplayer ready
-
-
-![Example](https://i.imgur.com/KTh4LKX.png)
-
