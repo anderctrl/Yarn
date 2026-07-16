@@ -11,7 +11,7 @@ A modern branching dialogue system for **Unreal Engine**.
 > [!WARNING]
 > Yarn is currently under active development and **is not production ready**. Assets, and formats may change without notice until the first stable release.
 
-## Overview
+## 📋 Overview
 
 Yarn is an Unreal Engine plugin that provides a lightweight and extensible branching dialogue system.
 
@@ -32,7 +32,7 @@ It focuses on being **programmer-friendly** while still exposing everything need
 
 ---
 
-## Planned Features
+## ✏️ Planned Features
 
 - [ ] Dialogue variables
 - [ ] Localization support
@@ -41,7 +41,7 @@ It focuses on being **programmer-friendly** while still exposing everything need
 
 ---
 
-## Installation
+## 📦 Installation
 
 1. Download or clone the repository.
 2. Copy the `Yarn` folder into your project's `Plugins` directory.
@@ -51,6 +51,6 @@ It focuses on being **programmer-friendly** while still exposing everything need
 
 ---
 
-## License
+## ⚖️ License
 
 Licensed under the MIT License.
